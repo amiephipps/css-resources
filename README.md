@@ -1,9 +1,4 @@
-#CSS
-
-
-
-
-
+# CSS
 
 ### Layouts
 
@@ -14,7 +9,15 @@
 
 
 ### display:
-[codepen](codepen)
+
+- general example:
+[https://codepen.io/amiephipps/pen/NJmqZR](https://codepen.io/amiephipps/pen/NJmqZR)
+
+- display: flex
+[https://codepen.io/amiephipps/pen/aMxOea](https://codepen.io/amiephipps/pen/aMxOea)
+
+- display: flex (three column header)
+[https://codepen.io/amiephipps/pen/WmWQvp](https://codepen.io/amiephipps/pen/WmWQvp)
 
 
 
