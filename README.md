@@ -1,5 +1,7 @@
 # CSS
 
+Below are some links that provide visual explanations of these CSS properties. Understanding these properties and when to use them, are very important for writing maintainable CSS!
+
 ### display:
 
 - general example:
@@ -14,6 +16,10 @@
 
 
 ### margin, padding, and border
+
+- general example:
+[https://codepen.io/amiephipps/pen/xBNqoE?editors=1100](https://codepen.io/amiephipps/pen/xBNqoE?editors=1100)
+
 
 - padding/margin + block/inline-block:
 [https://codepen.io/amiephipps/pen/MxRajV](https://codepen.io/amiephipps/pen/MxRajV)
