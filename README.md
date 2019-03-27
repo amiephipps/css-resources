@@ -1,6 +1,6 @@
 # CSS
 
-Below are some links that provide visual explanations of these CSS properties. Understanding these properties and when to use them, are very important for writing maintainable CSS!
+Below are some links that provide visual explanations of these CSS properties. Understanding these properties and when to use them is very important for writing maintainable CSS!
 
 ### display:
 
