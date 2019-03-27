@@ -2,18 +2,6 @@
 
 Below are some links that provide visual explanations of these CSS properties. Understanding these properties and when to use them is very important for writing maintainable CSS!
 
-
-### margin, padding, and border
-
-- general example:
-[https://codepen.io/amiephipps/pen/xBNqoE?editors=1100](https://codepen.io/amiephipps/pen/xBNqoE?editors=1100)
-
-
-- padding/margin + block/inline-block:
-[https://codepen.io/amiephipps/pen/MxRajV](https://codepen.io/amiephipps/pen/MxRajV)
-
-
-
 ### display:
 
 - general example:
@@ -24,6 +12,17 @@ Below are some links that provide visual explanations of these CSS properties. U
 
 - flexbox (three column header):
 [https://codepen.io/amiephipps/pen/WmWQvp](https://codepen.io/amiephipps/pen/WmWQvp)
+
+
+
+### margin, padding, and border
+
+- general example:
+[https://codepen.io/amiephipps/pen/xBNqoE?editors=1100](https://codepen.io/amiephipps/pen/xBNqoE?editors=1100)
+
+
+- padding/margin + block/inline-block:
+[https://codepen.io/amiephipps/pen/MxRajV](https://codepen.io/amiephipps/pen/MxRajV)
 
 
 
