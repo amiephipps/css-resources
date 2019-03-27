@@ -32,6 +32,17 @@ Below are some links that provide visual explanations of these CSS properties. U
 [https://codepen.io/amiephipps/pen/mogepP](https://codepen.io/amiephipps/pen/mogepP)
 
 
+- height/width and responsive design
+[https://codepen.io/amiephipps/pen/GeamEY](https://codepen.io/amiephipps/pen/GeamEY)
+
+
+
+### images
+
+- simple example:
+[https://codepen.io/amiephipps/pen/JzqNqL](https://codepen.io/amiephipps/pen/JzqNqL)
+
+
 
 ### position
 
@@ -45,5 +56,6 @@ Below are some links that provide visual explanations of these CSS properties. U
 
 ### general
 
-- only use content when using a `:before` or `:after` elements
+- only use content when using a `:before` or `:after` element - it only works with those pseudo selector
+  - pseudo selectors are basically different 'states' of elements (:hover, :active, :focus, :after, etc.)
 - for accessibility (screen readers), when you `:hover`, also set `:focus` at the same time
