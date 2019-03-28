@@ -56,6 +56,6 @@ Below are some links that provide visual explanations of these CSS properties. U
 
 ### general
 
-- only use content when using a `:before` or `:after` element - it only works with those pseudo selector
+- only use content when using a `:before` or `:after` element - it only works with those pseudo selectors
   - pseudo selectors are basically different 'states' of elements (:hover, :active, :focus, :after, etc.)
-- for accessibility (screen readers), when you `:hover`, also set `:focus` at the same time
+- for accessibility, when you `:hover`, also set `:focus` at the same time
